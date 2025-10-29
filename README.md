@@ -15,7 +15,7 @@ Neste processo eu aprendi:
 * ✅ Refatoração de código legado
 
 ## REGRAS DO DESAFIO
-- [ ] Realizar um fork do repositório do desafio
+- [x] Realizar um fork do repositório do desafio
 - [ ] Refatorar os métodos
 - [ ] Promover baixo acoplamento entre as partes
 
